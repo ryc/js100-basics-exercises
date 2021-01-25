@@ -5,6 +5,8 @@ function greet(langCode) {
     case 'en': return 'Hi!';
     case 'fr': return 'Salut!';
     case 'pt': return 'Olá!'
+    case 'de': return 'Hallo!'
+    case 'sv': 'Hej!'
     case 'af': return 'Haai!'
   }
 }
